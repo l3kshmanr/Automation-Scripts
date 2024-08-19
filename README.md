@@ -1,3 +1,1 @@
-# WaySw3ll
-
-Categorize Wayback Machine URLs and save them in separate files
+This repository features a set of custom automation scripts crafted for bug hunting and penetration testing. These scripts automate critical tasks such as reconnaissance, vulnerability scanning, and data extraction, helping to speed up the process of identifying security flaws. Each script is designed to target specific stages of bug hunting, making repetitive tasks more efficient while maintaining a focus on accuracy.
